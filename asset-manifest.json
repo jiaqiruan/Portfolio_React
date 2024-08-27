@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/justinruan177/justinruan177.github.io.git/static/css/main.30f1d687.css",
+    "main.js": "/justinruan177/justinruan177.github.io.git/static/js/main.360177e0.js",
+    "static/media/RogfreeImage.png": "/justinruan177/justinruan177.github.io.git/static/media/RogfreeImage.993cda77ba697f732f83.png",
+    "static/media/Avatar.png": "/justinruan177/justinruan177.github.io.git/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "static/media/WigglesImage.png": "/justinruan177/justinruan177.github.io.git/static/media/WigglesImage.20a26843b040ce7513a0.png",
+    "static/media/TindogImage.png": "/justinruan177/justinruan177.github.io.git/static/media/TindogImage.4e5a87d8a7a948be72d7.png",
+    "static/media/New_Resume_JiaqiRuan.pdf": "/justinruan177/justinruan177.github.io.git/static/media/New_Resume_JiaqiRuan.4a12e4120a98ce90e47d.pdf",
+    "static/media/NewsletterImage.png": "/justinruan177/justinruan177.github.io.git/static/media/NewsletterImage.c26ff2e9ad8650e93ad0.png",
+    "index.html": "/justinruan177/justinruan177.github.io.git/index.html",
+    "main.30f1d687.css.map": "/justinruan177/justinruan177.github.io.git/static/css/main.30f1d687.css.map",
+    "main.360177e0.js.map": "/justinruan177/justinruan177.github.io.git/static/js/main.360177e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f1d687.css",
+    "static/js/main.360177e0.js"
+  ]
+}
